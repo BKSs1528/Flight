@@ -1,0 +1,11 @@
+ Build the book networking application in either NodeJS using a framework of your choice
+ Use either SQLite, MySQL or MongoDB as your database
+ Users can search the global catalogue of books by title or ISBN
+వినియోగదారులు పుస్తకాల గ్లోబల్ కేటలాగ్‌ను టైటిల్ లేదా ISBN ద్వారా శోధించవచ్చు
+ Users can add a book they like to their personal list of books
+వినియోగదారులు తమ వ్యక్తిగత పుస్తకాల జాబితాకు తమకు నచ్చిన పుస్తకాన్ని జోడించవచ్చు
+ Users can add a new book to the catalogue if one is missing
+కేటలాగ్ తప్పిపోయినట్లయితే వినియోగదారులు కొత్త పుస్తకాన్ని జోడించవచ్చు
+ Users can search for other users and view (but not modify) other users books lists
+వినియోగదారులు ఇతర వినియోగదారుల కోసం శోధించవచ్చు మరియు ఇతర వినియోగదారుల పుస్తకాల జాబితాను వీక్షించవచ్చు (కానీ సవరించలేరు)
+ Users login via Facebook or Google+
